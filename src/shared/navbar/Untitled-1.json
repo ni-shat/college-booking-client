@@ -1,0 +1,404 @@
+[
+    {
+        "name": "Baf Shaheen College Kurmitola",
+        "description": "Welcome to the University of Baf Shaheen College Kurmitola, located in the vibrant city of City A, State X. We are dedicated to fostering a diverse and inclusive learning environment where students can excel academically and personally. With a stellar rating of 4.5, we offer a wide range of programs to meet your educational needs.",
+        "location": "City A, State X",
+        "admissionDates": [
+            "09-01-2023",
+            "09-15-2023"
+        ],
+        "rating": 4.5,
+        "admissionProcess": [
+            "Fill out the online admission form.",
+            "Prepare for the entrance exam.",
+            "Submit your academic records.",
+            "Attend the entrance exam.",
+            "Interview with our admissions committee.",
+            "Receive your admission offer.",
+            "Pay the admission fee.",
+            "Complete the enrollment process."
+        ],
+        "events": [
+            {
+                "name": "IDEA HACK-2018",
+                "date": "09-10-2018",
+                "description": "A dynamic and collaborative event designed to ignite your creativity, foster innovation, and turn your concepts into actionable solutions.",
+                "image": "https://i.ibb.co/GnNkBs9/6162897-A-CAC5-41-DC-8-F3-E-3-C97619-B9-AFC-735x460.jpg"
+            },
+            {
+                "name": "Annual Sports Meet",
+                "date": "10-05-2023",
+                "description": "Participate in various sports competitions and cheer for your favorite teams.",
+                "image": "https://i.ibb.co/4sWW86P/MT-BEDES-SPORTS.jpg"
+            },
+            {
+                "name": "Tech Fest",
+                "date": "11-20-2023",
+                "description": "Showcase your technical skills and creativity in this grand technology festival.",
+                "image": "https://i.ibb.co/QKsfVfC/tech-fest.jpg"
+            }
+        ],
+        "researchHistory": [
+            {
+                "title": "Exploring Quantum Computing",
+                "author": "John Doe",
+                "publicationDate": "05-10-2023"
+            },
+            {
+                "title": "Climate Change Research",
+                "author": "Jane Smith",
+                "publicationDate": "06-20-2023"
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "name": "Basketball Court",
+                "description": "Play basketball with your friends on our well-maintained court.",
+                "image": "https://i.ibb.co/YcRYdps/orange-gray-header.jpg"
+            },
+            {
+                "name": "Swimming Pool",
+                "description": "Take a refreshing swim in our Olympic-sized swimming pool.",
+                "image": "https://i.ibb.co/FqmB2BK/Resize-of-MNIC-100528ca66a10ed8-1024x678.jpg"
+            },
+            {
+                "name": "Gymnasium",
+                "description": "Stay fit and healthy in our fully equipped gymnasium.",
+                "image": "https://i.ibb.co/dm5PPKw/Gym-6.jpg"
+            }
+        ],
+        "image": "https://i.ibb.co/gJfY20r/sadat-alam-protik-Osuesan-Sbw-unsplash.jpg",
+        "graduatesGroupPictures": "https://i.ibb.co/BfFhvym/1679819007.jpg"
+    },
+    {
+        "name": "Dhaka College",
+        "description": "At XYZ College, situated in the heart of City B, State Y, we believe in providing students with an exceptional educational experience. With admission dates starting on September 10th, we encourage you to explore our programs, join our vibrant community, and prepare for a bright future.",
+        "location": "City B, State Y",
+        "admissionDates": [
+            "09-10-2023",
+            "09-25-2023"
+        ],
+        "rating": 4.2,
+        "admissionProcess": [
+            "Visit our website and access the online application form.",
+            "Complete the online application form with accurate personal and academic details.",
+            "Prepare for the college's entrance examination based on your chosen program. Study materials are available on our website.",
+            "Submit your high school transcripts, certificates, and any relevant academic documents along with your application.",
+            "Attend the scheduled entrance examination on the college campus. Please bring a valid ID and any required materials.",
+            "Successful exam candidates will be invited for an interview with our admissions committee.",
+            "During the interview, discuss your academic goals, interests, and motivations for joining our college.",
+            "Upon review of your application and interview, you will receive an official admission offer letter via email.",
+            "Carefully read and follow the instructions provided in the offer letter to confirm your enrollment.",
+            "Secure your place by paying the required admission fee before the specified deadline.",
+            "Complete the enrollment process by submitting any outstanding documents and attending the orientation session.",
+            "Welcome to our college community! We look forward to your academic journey with us."
+        ],
+        "events": [
+            {
+                "name": "Freshman Welcome Party",
+                "date": "09-15-2023",
+                "description": "Join us for an unforgettable welcome party for all new students.",
+                "image": "https://i.ibb.co/VCsxWcc/Kidnapped-Nov5.jpg"
+            },
+            {
+                "name": "Science Fair",
+                "date": "11-02-2023",
+                "description": "Showcase your scientific experiments and innovations in the annual science fair.",
+                "image": "https://i.ibb.co/BtNYYrx/science-fair-concept-vector.jpg"
+            }
+        ],
+        "researchHistory": [
+            {
+                "title": "Machine Learning Applications",
+                "author": "Alice Johnson",
+                "publicationDate": "07-05-2023"
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "name": "Tennis Court",
+                "description": "Play tennis on our professional-grade courts.",
+                "image": "https://i.ibb.co/Brn8Vfv/How-to-build-a-tennis-court-1440x1080.jpg"
+            },
+            {
+                "name": "Track and Field",
+                "description": "Participate in track and field events and stay active.",
+                "image": "https://i.ibb.co/qpBtddr/istockphoto-505914821-612x612.jpg"
+            },
+            {
+                "name": "Yoga Studio",
+                "description": "Relax and practice yoga in our peaceful studio.",
+                "image": "https://i.ibb.co/64PmkyR/131608280617-yy.jpg"
+            }
+        ],
+        "image": "https://i.ibb.co/12jSmXW/DC.jpg",
+        "graduatesGroupPictures": "https://i.ibb.co/4VkLbR2/program-2.png"
+    },
+    {
+        "name": "Sunshine University",
+        "description": "Sunshine University, nestled in the picturesque City C, State Z, welcomes you to a world of opportunities. Our strong rating of 4.7 reflects our commitment to academic excellence. Join us for events like Welcome Day and the annual Art Exhibition as you embark on a fulfilling educational journey.",
+        "location": "City C, State Z",
+        "admissionDates": [
+            "08-20-2023",
+            "09-10-2023"
+        ],
+        "rating": 4.7,
+        "admissionProcess": [
+            "Access our website and navigate to the 'Admissions' section to find the online application form.",
+            "Complete the online application form, providing accurate personal and academic information.",
+            "Depending on your chosen program, prepare for the college's entrance examination. Study materials are available online.",
+            "Submit your high school transcripts, certificates, and any relevant academic documents along with your application.",
+            "Attend the scheduled entrance examination on our campus. Remember to bring a valid ID and any required exam materials.",
+            "Candidates who perform well on the exam will be invited for an interview with our admissions committee.",
+            "During the interview, discuss your academic goals, interests, and motivations for joining Sunshine University.",
+            "After a thorough review of your application and interview, you will receive an official admission offer letter via email.",
+            "Read and follow the instructions provided in the offer letter to confirm your enrollment.",
+            "Secure your place by paying the required admission fee before the specified deadline.",
+            "Complete the enrollment process by submitting any outstanding documents and attending the orientation session.",
+            "Welcome to the Sunshine University family! We look forward to your academic journey with us."
+        ],
+        "events": [
+            {
+                "name": "Welcome Day",
+                "date": "09-05-2023",
+                "description": "Join us for a warm welcome to our campus, meet our faculty, and connect with fellow students.",
+                "image": "https://i.ibb.co/vkQRJhJ/welcomeheromobilewlogocroped.jpg"
+            },
+            {
+                "name": "Art Exhibition",
+                "date": "10-15-2023",
+                "description": "Explore the creativity of our students in our annual art exhibition.",
+                "image": "https://i.ibb.co/6bBxXG5/Captcha-Colour.jpg"
+            }
+        ],
+        "researchHistory": [
+            {
+                "title": "Advancements in Renewable Energy",
+                "author": "David Wilson",
+                "publicationDate": "06-28-2023"
+            },
+            {
+                "title": "Medical Breakthroughs",
+                "author": "Emily Davis",
+                "publicationDate": "07-15-2023"
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "name": "Soccer Field",
+                "description": "Enjoy soccer matches and practice on our well-maintained field.",
+                "image": "https://i.ibb.co/cbHZcds/IMG-8243-F57v-K.jpg"
+            },
+            {
+                "name": "Swimming Complex",
+                "description": "Take a refreshing swim in our modern swimming pool complex.",
+                "image": "https://i.ibb.co/5BrJ6Pr/woodlands-swimming-complex.jpg"
+            },
+            {
+                "name": "Fitness Center",
+                "description": "Stay in shape with the latest fitness equipment in our fitness center.",
+                "image": "https://i.ibb.co/7QYpx5w/the-newbury-boston-fitness-center.jpg"
+            }
+        ],
+        "image": "https://i.ibb.co/hdwzgFg/Jalalabad-Cantonment-Public-School-And-College-Pic-1024x433.jpg",
+        "graduatesGroupPictures": "https://i.ibb.co/JQrWcz9/graduates-hero.jpg"
+    },
+    {
+        "name": "Greenfield College",
+        "description": "Welcome to Greenfield College, situated in the heart of City D, State W. We are committed to providing students with a top-notch education in a nurturing environment. With admission dates starting on September 5th, we invite you to explore our programs, connect with our community, and embark on a rewarding educational journey.",
+        "location": "City D, State W",
+        "admissionDates": [
+            "09-05-2023",
+            "09-20-2023"
+        ],
+        "rating": 4.6,
+        "admissionProcess": [
+            "Visit our website and complete the online application form.",
+            "Prepare for the college entrance examination based on your chosen program.",
+            "Submit your academic records along with your application.",
+            "Attend the scheduled entrance exam on our campus.",
+            "Participate in an interview with our admissions committee.",
+            "Receive your official admission offer.",
+            "Complete the enrollment process.",
+            "Join our orientation session."
+        ],
+        "events": [
+            {
+                "name": "IDEA HACK-2018",
+                "date": "09-10-2018",
+                "description": "A dynamic and collaborative event designed to ignite your creativity, foster innovation, and turn your concepts into actionable solutions.",
+                "image": "https://i.ibb.co/GnNkBs9/6162897-A-CAC5-41-DC-8-F3-E-3-C97619-B9-AFC-735x460.jpg"
+            },
+            {
+                "name": "Annual Sports Meet",
+                "date": "10-05-2023",
+                "description": "Participate in various sports competitions and cheer for your favorite teams.",
+                "image": "https://i.ibb.co/4sWW86P/MT-BEDES-SPORTS.jpg"
+            },
+            {
+                "name": "Tech Fest",
+                "date": "11-20-2023",
+                "description": "Showcase your technical skills and creativity in this grand technology festival.",
+                "image": "https://i.ibb.co/QKsfVfC/tech-fest.jpg"
+            }
+        ],
+        "researchHistory": [
+            {
+                "title": "Innovations in Computer Science",
+                "author": "Eleanor Adams",
+                "publicationDate": "07-12-2023"
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "name": "Basketball Court",
+                "description": "Play basketball with your friends on our well-maintained court.",
+                "image": "https://i.ibb.co/YcRYdps/orange-gray-header.jpg"
+            },
+            {
+                "name": "Swimming Pool",
+                "description": "Take a refreshing swim in our Olympic-sized swimming pool.",
+                "image": "https://i.ibb.co/FqmB2BK/Resize-of-MNIC-100528ca66a10ed8-1024x678.jpg"
+            },
+            {
+                "name": "Gymnasium",
+                "description": "Stay fit and healthy in our fully equipped gymnasium.",
+                "image": "https://i.ibb.co/dm5PPKw/Gym-6.jpg"
+            }
+        ],
+        "image": "https://i.ibb.co/kD4Jyqd/greenfield-public-school-jakkur-bangalore-schools-flxxwc.webp",
+        "graduatesGroupPictures": "https://i.ibb.co/SKwzFMB/istockphoto-484741611-612x612.jpg"
+    },
+    {
+        "name": "Harborview University",
+        "description": "Welcome to Harborview University, located in the scenic City E, State Z. Our commitment to academic excellence is reflected in our stellar rating of 4.8. Join us for events like the Annual Science Symposium and immerse yourself in a world of learning.",
+        "location": "City E, State Z",
+        "admissionDates": [
+            "08-25-2023",
+            "09-15-2023"
+        ],
+        "rating": 4.8,
+        "admissionProcess": [
+            "Visit our website and complete the online application form.",
+            "Prepare for the college entrance examination.",
+            "Submit your academic transcripts and certificates.",
+            "Attend the scheduled entrance exam on campus.",
+            "Participate in an interview with our admissions team.",
+            "Receive your official admission offer letter.",
+            "Confirm your enrollment and pay the admission fee.",
+            "Complete the enrollment process."
+        ],
+        "events": [
+            {
+                "name": "IDEA HACK-2018",
+                "date": "09-10-2018",
+                "description": "A dynamic and collaborative event designed to ignite your creativity, foster innovation, and turn your concepts into actionable solutions.",
+                "image": "https://i.ibb.co/GnNkBs9/6162897-A-CAC5-41-DC-8-F3-E-3-C97619-B9-AFC-735x460.jpg"
+            },
+            {
+                "name": "Annual Sports Meet",
+                "date": "10-05-2023",
+                "description": "Participate in various sports competitions and cheer for your favorite teams.",
+                "image": "https://i.ibb.co/4sWW86P/MT-BEDES-SPORTS.jpg"
+            },
+            {
+                "name": "Tech Fest",
+                "date": "11-20-2023",
+                "description": "Showcase your technical skills and creativity in this grand technology festival.",
+                "image": "https://i.ibb.co/QKsfVfC/tech-fest.jpg"
+            }
+        ],
+        "researchHistory": [
+            {
+                "title": "Advancements in Medicine",
+                "author": "Michael Turner",
+                "publicationDate": "06-18-2023"
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "name": "Basketball Court",
+                "description": "Play basketball with your friends on our well-maintained court.",
+                "image": "https://i.ibb.co/YcRYdps/orange-gray-header.jpg"
+            },
+            {
+                "name": "Swimming Pool",
+                "description": "Take a refreshing swim in our Olympic-sized swimming pool.",
+                "image": "https://i.ibb.co/FqmB2BK/Resize-of-MNIC-100528ca66a10ed8-1024x678.jpg"
+            },
+            {
+                "name": "Gymnasium",
+                "description": "Stay fit and healthy in our fully equipped gymnasium.",
+                "image": "https://i.ibb.co/dm5PPKw/Gym-6.jpg"
+            }
+        ],
+        "image": "https://i.ibb.co/bBHNdrr/Eye-Institute-at-Harborview.jpg",
+        "graduatesGroupPictures": "https://i.ibb.co/FJHvKqn/istockphoto-1066324992-612x612.jpg"
+    },
+    {
+        "name": "Riverside College",
+        "description": "Welcome to Riverside College, located in the picturesque City G, State M. Our commitment to academic excellence has earned us a remarkable rating of 4.9. Join us for exciting events like the Annual Riverside Music Festival and embark on a journey of creativity and learning.",
+        "location": "City G, State M",
+        "admissionDates": [
+            "08-10-2023",
+            "08-25-2023"
+        ],
+        "rating": 4.9,
+        "admissionProcess": [
+            "Visit our website and complete the online application form.",
+            "Prepare for the college entrance examination based on your chosen program.",
+            "Submit your academic transcripts and certificates.",
+            "Attend the scheduled entrance exam on our campus.",
+            "Participate in an interview with our admissions team.",
+            "Receive your official admission offer letter.",
+            "Confirm your enrollment and pay the admission fee.",
+            "Complete the enrollment process."
+        ],
+        "events": [
+            {
+                "name": "IDEA HACK-2018",
+                "date": "09-10-2018",
+                "description": "A dynamic and collaborative event designed to ignite your creativity, foster innovation, and turn your concepts into actionable solutions.",
+                "image": "https://i.ibb.co/GnNkBs9/6162897-A-CAC5-41-DC-8-F3-E-3-C97619-B9-AFC-735x460.jpg"
+            },
+            {
+                "name": "Annual Sports Meet",
+                "date": "10-05-2023",
+                "description": "Participate in various sports competitions and cheer for your favorite teams.",
+                "image": "https://i.ibb.co/4sWW86P/MT-BEDES-SPORTS.jpg"
+            },
+            {
+                "name": "Tech Fest",
+                "date": "11-20-2023",
+                "description": "Showcase your technical skills and creativity in this grand technology festival.",
+                "image": "https://i.ibb.co/QKsfVfC/tech-fest.jpg"
+            }
+        ],
+        "researchHistory": [
+            {
+                "title": "Advancements in Environmental Science",
+                "author": "Sophia Clark",
+                "publicationDate": "07-20-2023"
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "name": "Soccer Field",
+                "description": "Enjoy soccer matches and practice on our well-maintained field.",
+                "image": "https://i.ibb.co/cbHZcds/IMG-8243-F57v-K.jpg"
+            },
+            {
+                "name": "Swimming Complex",
+                "description": "Take a refreshing swim in our modern swimming pool complex.",
+                "image": "https://i.ibb.co/5BrJ6Pr/woodlands-swimming-complex.jpg"
+            },
+            {
+                "name": "Fitness Center",
+                "description": "Stay in shape with the latest fitness equipment in our fitness center.",
+                "image": "https://i.ibb.co/7QYpx5w/the-newbury-boston-fitness-center.jpg"
+            }
+        ],
+        "image": "https://i.ibb.co/cyzBqB1/Uni-Under-Cover-Riverside-College.jpg",
+        "graduatesGroupPictures": "https://i.ibb.co/BfFhvym/1679819007.jpg"
+    }
+]

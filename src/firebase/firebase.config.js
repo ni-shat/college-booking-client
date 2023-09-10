@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyD2dIQMFt3gT4JJgiGn3zIBwTcs2Mbe9PE",
-  authDomain: "simple-social-media-auth.firebaseapp.com",
-  projectId: "simple-social-media-auth",
-  storageBucket: "simple-social-media-auth.appspot.com",
-  messagingSenderId: "762738190688",
-  appId: "1:762738190688:web:895b58df7c3c7809945605"
+  apiKey: "AIzaSyASAP6HryYEAhO3iNQP57OA5PD_8kkkeuc",
+  authDomain: "college-booking-auth.firebaseapp.com",
+  projectId: "college-booking-auth",
+  storageBucket: "college-booking-auth.appspot.com",
+  messagingSenderId: "921309421250",
+  appId: "1:921309421250:web:f1e5b2c8f84cbcf815255b"
 };
 
 // Initialize Firebase

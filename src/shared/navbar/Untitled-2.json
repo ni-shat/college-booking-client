@@ -1,0 +1,37 @@
+[
+    {
+        "userEmail": "nishat1@gmail.com",
+        "name": "Nishat Tabassum",
+        "collegeName": "University of ABC",
+        "rating": 4.5,
+        "comment": "Great university with excellent faculty and resources. I had an amazing experience here."
+    },
+    {
+        "userEmail": "imran@gmail.com",
+        "name": "Imran Islam",
+        "collegeName": "Dhaka College",
+        "rating": 4.2,
+        "comment": "I enjoyed my time at Dhaka College. The professors are knowledgeable, and the campus is beautiful."
+    },
+    {
+        "userEmail": "tania@gmail.com",
+        "name": "Tania Akther",
+        "collegeName": "Sunshine University",
+        "rating": 4.7,
+        "comment": "Sunshine University is the place to be. I made lifelong friends and received a top-notch education."
+    },
+    {
+        "userEmail": "tamanna@gmail.com",
+        "name": "Tamanna Akther",
+        "collegeName": "Dhaka College",
+        "rating": 4.2,
+        "comment": "I enjoyed my time at Dhaka College. The professors are knowledgeable, and the campus is beautiful."
+    },
+    {
+        "userEmail": "ema@gmail.com",
+        "name": "Ema Sultana",
+        "collegeName": "Sunshine University",
+        "rating": 4.7,
+        "comment": "Sunshine University is the place to be. I made lifelong friends and received a top-notch education."
+    }
+]

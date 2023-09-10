@@ -1,10 +1,12 @@
 import { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+import { useLocation, useParams } from "react-router-dom";
 import CollegeDetailsCard from "./CollegeDetailsCard";
 
 
 const CollegeDetails = () => {
     const [CollegeDetails, setCollegeDetails] = useState([]);
+    const Location = useLocation();
+    console.log(Location)
 
     let { id } = useParams();
 
